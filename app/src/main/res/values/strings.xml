@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">B10730006_HW2</string>
+    <string name="action_add">Add</string>
+    <string name="action_Setting">Settings</string>
+
+    <string name="pref_color_label">Color</string>
+
+    <string name="pref_color_label_red">Red</string>
+    <string name="pref_color_label_blue">Blue</string>
+    <string name="pref_color_label_green">Green</string>
+
+    <string name="pref_color_key" translatable="false">color</string>
+
+    <string name="pref_color_red_value" translatable="false">red</string>
+    <string name="pref_color_blue_value" translatable="false">blue</string>
+    <string name="pref_color_green_value" translatable="false">green</string>
+
+
+    <string name="default_guest_name">[Guest name]</string>
+    <string name="default_party_size">\?</string>
+
+    <string name="add_activity_name">Name</string>
+    <string name="add_activity_number">Number</string>
+    <string name="add_activity_ok">Ok</string>
+    <string name="add_activity_cancel">Cancel</string>
+</resources>
